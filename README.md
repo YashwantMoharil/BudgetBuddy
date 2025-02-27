@@ -1,1 +1,1 @@
-# BudgetBudd
+# BudgetBuddy
